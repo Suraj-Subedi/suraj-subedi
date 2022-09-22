@@ -3,5 +3,16 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 ![image](https://user-images.githubusercontent.com/41540064/191797180-570c4996-ac51-4947-8c59-b20d92e664f5.png)
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#1572B6" d="M8.76 1l10.055 112.883 45.118 12.58 45.244-12.626L119.24 1H8.76zm89.591 25.862l-3.347 37.605.01.203-.014.467v-.004l-2.378 26.294-.262 2.336L64 101.607v.001l-.022.019-28.311-7.888L33.75 72h13.883l.985 11.054 15.386 4.17-.004.008v-.002l15.443-4.229L81.075 65H48.792l-.277-3.043-.631-7.129L47.553 51h34.749l1.264-14H30.64l-.277-3.041-.63-7.131L29.401 23h69.281l-.331 3.862z"/></svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#0acf83" d="M45.5 129c11.9 0 21.5-9.6 21.5-21.5V86H45.5C33.6 86 24 95.6 24 107.5S33.6 129 45.5 129zm0 0"/><path fill="#a259ff" d="M24 64.5C24 52.6 33.6 43 45.5 43H67v43H45.5C33.6 86 24 76.4 24 64.5zm0 0"/><path fill="#f24e1e" d="M24 21.5C24 9.6 33.6 0 45.5 0H67v43H45.5C33.6 43 24 33.4 24 21.5zm0 0"/><path fill="#ff7262" d="M67 0h21.5C100.4 0 110 9.6 110 21.5S100.4 43 88.5 43H67zm0 0"/><path fill="#1abcfe" d="M110 64.5c0 11.9-9.6 21.5-21.5 21.5S67 76.4 67 64.5 76.6 43 88.5 43 110 52.6 110 64.5zm0 0"/></svg>
+![image](https://user-images.githubusercontent.com/41540064/191797506-3aa765ef-1290-4f0c-a366-d7aa22fa79b6.png)
+![image](https://user-images.githubusercontent.com/41540064/191797610-7ed8dafd-dbfb-43ff-967b-547fffc319e8.png)
+![image](https://user-images.githubusercontent.com/41540064/191797651-c1482b23-58e6-4fce-b512-24bb7ee0af93.png)
+![image](https://user-images.githubusercontent.com/41540064/191797690-5e87dfe1-e7ea-4ca1-86a9-b3ead893dfd3.png)
+![image](https://user-images.githubusercontent.com/41540064/191797737-77bbf7a9-1e0b-47bc-850c-e9434530b56f.png)
+![image](https://user-images.githubusercontent.com/41540064/191797785-8d1c6ee2-8ea8-4bfb-9b28-87083d558383.png)
+![image](https://user-images.githubusercontent.com/41540064/191797818-73752302-b51a-4972-897e-e0075a05bd69.png)
+![image](https://user-images.githubusercontent.com/41540064/191797853-974060c8-c06e-4b85-b65a-dc9ffe1a2db5.png)
+![image](https://user-images.githubusercontent.com/41540064/191797896-548e2597-5735-44ad-a374-3ffd48cccf59.png)
+![image](https://user-images.githubusercontent.com/41540064/191797946-47aba3c6-8094-4ae0-8742-00bcec99fbf7.png)
+![image](https://user-images.githubusercontent.com/41540064/191798002-dfefffe1-0041-41c3-92f5-389f70f4aa85.png)
+![image](https://user-images.githubusercontent.com/41540064/191798041-d3b172ed-d69b-49ec-838c-b389d9a6a7af.png)
+![image](https://user-images.githubusercontent.com/41540064/191798094-376f8120-c6e9-4e47-ab34-c640e00cba6b.png)
