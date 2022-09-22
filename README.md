@@ -2,6 +2,8 @@
 ## I am a programmer
 <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-subedi)](https://github.com/suraj-subedi/github-readme-stats)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 ![image](https://user-images.githubusercontent.com/41540064/191797180-570c4996-ac51-4947-8c59-b20d92e664f5.png)
