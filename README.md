@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-subedi)](https://github.com/suraj-subedi/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 ![image](https://user-images.githubusercontent.com/41540064/191797180-570c4996-ac51-4947-8c59-b20d92e664f5.png)
