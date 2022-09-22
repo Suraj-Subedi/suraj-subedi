@@ -8,6 +8,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
+<P>
 ![image](https://user-images.githubusercontent.com/41540064/191797180-570c4996-ac51-4947-8c59-b20d92e664f5.png)
 ![image](https://user-images.githubusercontent.com/41540064/191797506-3aa765ef-1290-4f0c-a366-d7aa22fa79b6.png)
 ![image](https://user-images.githubusercontent.com/41540064/191797610-7ed8dafd-dbfb-43ff-967b-547fffc319e8.png)
@@ -22,3 +23,4 @@
 ![image](https://user-images.githubusercontent.com/41540064/191798002-dfefffe1-0041-41c3-92f5-389f70f4aa85.png)
 ![image](https://user-images.githubusercontent.com/41540064/191798041-d3b172ed-d69b-49ec-838c-b389d9a6a7af.png)
 ![image](https://user-images.githubusercontent.com/41540064/191798094-376f8120-c6e9-4e47-ab34-c640e00cba6b.png)
+  </p>
