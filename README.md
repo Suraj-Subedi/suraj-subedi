@@ -3,11 +3,8 @@
 ### Studied Bachelors in Computer Science @Informatics college
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-subedi)](https://github.com/suraj-subedi/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-subedi&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-subedi)](https://github.com/suraj-subedi/github-readme-stats) ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-subedi&show_icons=true&theme=radical) 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-subedi&show_icons=true&theme=radical)
 
 
 ### :hammer_and_wrench: Languages and Tools :
