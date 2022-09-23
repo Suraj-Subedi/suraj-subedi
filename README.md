@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-subedi&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-subedi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-subedi" alt="suraj-subedi" /></a> </p>
+
 
 - 🔭 My projects you can check it out [Fully functional Instagram clone (Posts,message system,web,mobile))](https://suraj1.com.np)
 
