@@ -2,8 +2,8 @@
 ### I am a programmer from Pokhara, Nepal.
 ### Studied Bachelors in Computer Science @Informatics college
 
-<p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-subedi)](https://github.com/suraj-subedi/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-subedi&show_icons=true&theme=radical) </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-subedi)](https://github.com/suraj-subedi/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-subedi&show_icons=true&theme=radical) 
 
 
 
