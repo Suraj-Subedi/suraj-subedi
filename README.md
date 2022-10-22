@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **soorajsubedi1227@gmail.com**
 
-- ⚡ Fun fact **Love for tech, space, history and world affairs'..**
+- ⚡ Fun fact **Love for tech, space, history, world affairs and mo:mo (typical nepalease)'..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
