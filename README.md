@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **flutter,firebase,getx, and more.**
 
-- 📫 How to reach me **soorajsubedi1227@gmail.com**
+- 📫 Email me at : **soorajsubedi1227@gmail.com**
 
 - ⚡ Fun fact **Love for tech, space, history, world affairs and mo:mo (typical nepalease)'..**
 
