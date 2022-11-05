@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj Subedi </h1>
-<h3 align="center">I am a programmer from Pokhara, Nepal. Studied Bachelors in Computer Science @Informatics college</h3>
+<h3 align="center">I am a  from Pokhara, Nepal. Studied Bachelors in Computer Science @Informatics college</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-subedi&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-subedi" /> </p>
 
-
+- 📱 I do create UI/UX for apllications using Adobe XD/ Figma.
 
 - 🔭 My projects you can check it out [Fully functional Instagram clone (Posts,message system,web,mobile))](https://suraj1.com.np)
 
