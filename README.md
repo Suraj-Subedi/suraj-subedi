@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Love for tech, space, history, world affairs and mo:mo (typical nepalease)'..**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at:</h3>
 <p align="left">
 <a href="https://twitter.com/suraj_subedi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj_subedi1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suraj-subedi-065849202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-subedi-065849202" height="30" width="40" /></a>
