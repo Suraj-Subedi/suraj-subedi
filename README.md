@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-subedi&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-subedi" /> </p>
 
-- 📱 I do create UI/UX for apllications using Adobe XD/ Figma.
+- 📱 I am FLutter developer with some backend experience with nodeJS and golang.
 
 - 🔭 My projects you can check it out [Fully functional Instagram clone (Posts,message system,web,mobile))](https://suraj1.com.np)
 
