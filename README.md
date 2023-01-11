@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on flutter,dart programming. [https://flutterhope.com/author/soorajsubedi/](https://flutterhope.com/author/soorajsubedi/)
 
-- 💬 Ask me about **flutter,firebase,getx, and more.**
+- 💬 Ask me about **flutter,firebase,getx,hive and more.**
 
 - 📫 Email me at : **soorajsubedi1227@gmail.com**
 
