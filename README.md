@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my portfolio site [https://subedisuraj.com.np/](https://subedisuraj.com.np/)
 
-- 📝 I regularly write articles on flutter,dart programming. [https://flutterhope.com/author/soorajsubedi/](https://flutterhope.com/author/soorajsubedi/)
+- 📝 I regularly articles on flutter,dart programming. [https://flutterhope.com/author/soorajsubedi/](https://flutterhope.com/author/soorajsubedi/)
 
 - 💬 Ask me about **flutter,firebase,getx, and more.**
 
