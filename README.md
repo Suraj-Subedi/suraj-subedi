@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web development (react js), backend(node js) & flutter(intermediate).**
 
-- 👨‍💻 All of my projects are available at [https://subedisuraj.com.np/](https://subedisuraj.com.np/)
+- 👨‍💻 All of my projects are available at my portfolio site [https://subedisuraj.com.np/](https://subedisuraj.com.np/)
 
 - 📝 I regularly write articles on flutter,dart programming. [https://flutterhope.com/author/soorajsubedi/](https://flutterhope.com/author/soorajsubedi/)
 
