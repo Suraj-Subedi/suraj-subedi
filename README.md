@@ -33,12 +33,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
+<a href="https://activity-graph.herokuapp.com/graph?username=suraj-subedi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suraj-subedi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=suraj-subedi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suraj-subedi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
