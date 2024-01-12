@@ -5,8 +5,6 @@
 
 - 📱 I am Flutter/React developer with some backend experience of nodeJS and golang.
 
-- 🔭 My projects you can check it out [Fully functional Instagram clone (Posts,message system,web,mobile))](https://suraj1.com.np)
-
 - 🌱 I’m currently learning **Web development (react js), backend(node js) & flutter(intermediate).**
 
 - 👨‍💻 All of my projects are available at my portfolio site [https://subedisuraj.com.np/](https://subedisuraj.com.np/)
