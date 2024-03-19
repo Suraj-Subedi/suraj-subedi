@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-subedi&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-subedi" /> </p>
 
-- 📱 I am Flutter/React developer with some backend experience of nodeJS and golang.
-
-- 👨‍💻 All of my projects are available at my portfolio site [https://subedisuraj.com.np/](https://subedisuraj.com.np/)
-
-- 📝 I regularly write articles on flutter,dart programming. [https://flutterhope.com/author/soorajsubedi/](https://flutterhope.com/author/soorajsubedi/)
+- 📱 I am React/Flutter developer with some backend experience of nodeJS and Firebase.
 
 - 💬 Ask me about **flutter,react, nodeJs, firebase,getx,hive and more.**
 
 - 📫 Email me at : **soorajsubedi1227@gmail.com**
 
-- ⚡ Fun fact **Love for tech, space, history, world affairs and mo:mo (typical nepalease)'..**
+- ⚡ Fun fact **Love for tech, space, history, world affairs'..**
 
 <h3 align="left">Connect at:</h3>
 <p align="left">
